@@ -1,0 +1,20 @@
+.createNote_form {
+  display: flex;
+  flex-direction: column;
+}
+
+.createNote_tfield {
+  height: 35px;
+  padding: 0.25rem 0.75rem;
+}
+
+.createNote_bfield {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid #B2B2B2;
+  border-radius: 0.3rem;
+}
+
+.createNote_button {
+  width: 200px;
+}

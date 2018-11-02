@@ -1,0 +1,18 @@
+.noteView_container {
+  diplay: flex;
+  flex-direction: column;
+}
+
+.noteView_container p {
+  margin: 0 0.5rem;
+}
+
+.noteView_topContent {
+  display: flex;
+  justify-content: space-between;
+}
+
+.func_link {
+  padding: 8px 0.5rem;
+  color: RGB(66, 68, 67);
+}
